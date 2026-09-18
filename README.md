@@ -105,8 +105,8 @@ finance-tracker/
 ### Step 1 — Clone and enter the project
 
 ```bash
-git clone https://github.com/<your-username>/<your-repo-name>.git
-cd <your-repo-name>
+git clone https://github.com/<shivika27-2>/<personal-finance-expense-tracker>.git
+cd <personal-finance-expense-tracker>
 ```
 
 ### Step 2 — Confirm you're in the right folder
@@ -114,7 +114,7 @@ cd <your-repo-name>
 Run `pwd` (PowerShell/macOS/Linux). It should show the project root — the folder that contains **both** `src` and `bin`, e.g.:
 
 ```
-C:\...\<your-repo-name>
+C:\...\<personal-finance-expense-tracker>
 ```
 
 > ⚠️ If it instead shows a path ending in `\src`, run `cd ..` first and check `pwd` again.
@@ -254,3 +254,4 @@ There's no bundled test suite (this is a menu-driven CLI, so testing is primaril
 ## 👤 Author
 
 **Name:** Shivika Patidar
+git hub repo  personal-finance-expense-tracker
