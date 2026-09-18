@@ -1,20 +1,14 @@
-# Compiled Java class files
+# Compiled class files
+out/
 *.class
 
-# Package / IDE Build Directories
-/bin/
-/out/
-/target/
-/.idea/
-*.iml
-.settings/
-.classpath
-.project
-
-# Data Files (Ignore runtime user data, but keep structure)
+# Runtime data (transactions/budgets/recurring persisted locally)
 data/*.dat
-!data/.gitkeep
+data/*.csv
+data/*.txt
 
-# Operating System Files
+# OS/editor junk
 .DS_Store
-Thumbs.db
+.idea/
+*.iml
+.vscode/
